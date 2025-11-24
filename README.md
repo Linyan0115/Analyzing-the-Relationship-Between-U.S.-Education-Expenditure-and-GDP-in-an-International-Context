@@ -1,1 +1,2 @@
-# Analyzing-the-Relationship-Between-U.S.-Education-Expenditure-and-GDP-in-an-International-Context
+# Analyzing the Relationship Between U.S. Education Expenditure and GDP in an International Context
+
